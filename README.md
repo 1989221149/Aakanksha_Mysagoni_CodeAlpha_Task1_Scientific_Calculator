@@ -1,3 +1,1 @@
-# Aakanksha_Mysagoni_CodeAlpha_Task1_Scientific_Calculator
-Scientific_Calculator
 CodeAlpha_Scientific_Calculator
